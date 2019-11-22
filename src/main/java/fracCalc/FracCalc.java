@@ -31,7 +31,7 @@ public class FracCalc {
     	String Num2 = findNum(secFrac);
     	String Denom2 = findDenom(secFrac);
 
-    	String answer2 = "Whole:" + Whole2 + " numerator:" + Num2 + " denominator:" + Denom2;
+    	String answer2 = "whole:" + Whole2 + " numerator:" + Num2 + " denominator:" + Denom2;
     	return answer2;
     }
     	
